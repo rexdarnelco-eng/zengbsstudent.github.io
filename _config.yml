@@ -3,3 +3,10 @@ collections:
     output: true
 
 collections_dir: content
+
+defaults:
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: default
